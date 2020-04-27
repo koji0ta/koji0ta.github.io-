@@ -686,7 +686,9 @@ body::before {
   border: 2px solid #FF66CC;
 }
 
-
+.little-space {
+  margin-bottom: 1em;
+}
 
 .sns{
   text-align: center;
